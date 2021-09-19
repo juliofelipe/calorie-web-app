@@ -1,6 +1,6 @@
-# Projeto Base Python
+# Calorie Web App
 
-Projeto base para iniciar qualquer projeto Python.
+Projeto Web em Python e Flask para calcular as calorias necessárias de acordo com os dados fornecidos
 
 ## Instalar dependências
 
